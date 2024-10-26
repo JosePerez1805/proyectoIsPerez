@@ -17,6 +17,11 @@ public class ProyectoIsPerez {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Prubhe arepositorio 26/010/24");
+        
+        int num1=10;
+        int num2=20;
+        int suma = num1+num2;
+        System.out.println("suma es: "+suma);
     }
     
 }
